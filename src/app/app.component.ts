@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'h2-ui';
+  description= "this is test project"
 }
